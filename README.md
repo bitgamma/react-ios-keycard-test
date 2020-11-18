@@ -1,0 +1,3 @@
+Example React-Native app with Swift module created by following the tutorial at [https://teabreak.e-spres-oh.com/swift-in-react-native-the-ultimate-guide-part-1-modules-9bb8d054db03](https://teabreak.e-spres-oh.com/swift-in-react-native-the-ultimate-guide-part-1-modules-9bb8d054db03)
+
+The tutorial has then been extended to integrated the Keycard SDK. Using the @availalbe/#available directives this module can be loaded on iOS versions not supporting CoreNFC. This app is only a test bed for the future Status/Keycard integration on iOS
